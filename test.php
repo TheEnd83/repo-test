@@ -1,4 +1,4 @@
 <?php
 echo 'ciao Alessandross';
 
-echo 'confltest';
+echo 'confltest2';
